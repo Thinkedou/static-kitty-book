@@ -17,7 +17,6 @@ Comment afficher qu'une portion du tableau ?
 ## Gestion du passage d'id
 Cliquer sur un livre devrait ouvrir l'équivalent de la page "preview.html"
 
-
 ## Pagination
 Comment faire pour rendre la pagination des livres effectives sur la home?
 (regardez du côté du watch)
